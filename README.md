@@ -45,7 +45,7 @@ pnpm i
 
 ### Backend Setup
 
-Navigate to the `reoot` directory and build the project:
+Navigate to the `root` directory and build the project:
 ```bash
 cd ..
 cargo build
