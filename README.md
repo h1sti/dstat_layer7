@@ -2,7 +2,7 @@
 
 # Layer7 DStat
 
-Layer7 DStat is a modern, high-performance distributed system statistics monitoring tool. This project leverages React with Vite and Shadcn for the frontend, and Actix-Web in Rust for the backend to provide real-time insights into your system's performance.
+Layer7 DStat is a modern, high-performance distributed system statistics monitoring tool. This project leverages React with Vite and Shadcn for the frontend, and Actix-Web in Rust for the backend to provide real-time insights into your network's performance.
 
 ## Table of Contents
 
