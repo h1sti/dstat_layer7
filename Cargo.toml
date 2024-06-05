@@ -1,0 +1,13 @@
+[package]
+name = "gh-dstat-l7"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = { version = "4.0.1" }
+actix = { version = "0.13.0" }
+actix-web-actors = "4.0.0"
+actix-files = "0.6.5"
+
+tera = { version = "1.15.0" }
+
