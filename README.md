@@ -83,8 +83,4 @@ We welcome contributions from the community! Please follow these steps to contri
 6. Open a pull request.
 
 Please ensure your code adheres to the project's coding standards and includes appropriate tests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ---
